@@ -1,7 +1,7 @@
 <strong><h1 align="center">#RocketNews</h1></strong>
 
 <p align="center">
-  <img alt="" src=".github/Cover.png" width="100%">
+  <img alt="" src="./assets/cover.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
